@@ -1,5 +1,5 @@
 @charset "UTF-8";
-
+@media screen and (max-width: 600px) {
 body {
   background: #ffffff;
   color: #000000;
@@ -45,4 +45,5 @@ th {
   margin-top: 10px;
   font-weight: normal;
   font-size: 13px;
+}
 }
